@@ -1,3 +1,10 @@
+# Description
+
+This SPA is my "amateur" version of the official website of SpasH. From the official site only the idea of visual display and styles was taken. The concept of building the application and the architecture of the code were invented independently.
+
+Этот СПА - моя "любительская" версия официального сайта Спаса. С официального сайта была взята только идея визуального отображения и стилей. Концепция построения приложения и архитектура кода были изобретены независимо.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
