@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.eab438da.chunk.css",
-    "main.js": "/static/js/main.87a5074b.chunk.js",
-    "main.js.map": "/static/js/main.87a5074b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.142b1330.js",
-    "runtime-main.js.map": "/static/js/runtime-main.142b1330.js.map",
-    "static/js/2.6cde0982.chunk.js": "/static/js/2.6cde0982.chunk.js",
-    "static/js/2.6cde0982.chunk.js.map": "/static/js/2.6cde0982.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a705b72e1da9ced33425ac553d77e5cf.js": "/precache-manifest.a705b72e1da9ced33425ac553d77e5cf.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.eab438da.chunk.css.map": "/static/css/main.eab438da.chunk.css.map",
-    "static/js/2.6cde0982.chunk.js.LICENSE.txt": "/static/js/2.6cde0982.chunk.js.LICENSE.txt",
-    "static/js/main.87a5074b.chunk.js.LICENSE.txt": "/static/js/main.87a5074b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.d5ab31ce.svg"
+    "main.css": "/SpaceX-SPA/static/css/main.eab438da.chunk.css",
+    "main.js": "/SpaceX-SPA/static/js/main.87a5074b.chunk.js",
+    "main.js.map": "/SpaceX-SPA/static/js/main.87a5074b.chunk.js.map",
+    "runtime-main.js": "/SpaceX-SPA/static/js/runtime-main.17358838.js",
+    "runtime-main.js.map": "/SpaceX-SPA/static/js/runtime-main.17358838.js.map",
+    "static/js/2.6374f6a4.chunk.js": "/SpaceX-SPA/static/js/2.6374f6a4.chunk.js",
+    "static/js/2.6374f6a4.chunk.js.map": "/SpaceX-SPA/static/js/2.6374f6a4.chunk.js.map",
+    "index.html": "/SpaceX-SPA/index.html",
+    "precache-manifest.0b2125009b3d2764a176b42622fe8d9d.js": "/SpaceX-SPA/precache-manifest.0b2125009b3d2764a176b42622fe8d9d.js",
+    "service-worker.js": "/SpaceX-SPA/service-worker.js",
+    "static/css/main.eab438da.chunk.css.map": "/SpaceX-SPA/static/css/main.eab438da.chunk.css.map",
+    "static/js/2.6374f6a4.chunk.js.LICENSE.txt": "/SpaceX-SPA/static/js/2.6374f6a4.chunk.js.LICENSE.txt",
+    "static/js/main.87a5074b.chunk.js.LICENSE.txt": "/SpaceX-SPA/static/js/main.87a5074b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SpaceX-SPA/static/media/logo.d5ab31ce.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.142b1330.js",
-    "static/js/2.6cde0982.chunk.js",
+    "static/js/runtime-main.17358838.js",
+    "static/js/2.6374f6a4.chunk.js",
     "static/css/main.eab438da.chunk.css",
     "static/js/main.87a5074b.chunk.js"
   ]
