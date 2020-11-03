@@ -55,7 +55,7 @@ const Features = (props) => {
 			</table>
 			<RellaxWrapper speed={14}>
 			<img
-					src={`/img/${imgs.hasOwnProperty(name) ? imgs[name] : imgs.other}.png`}
+					src={`/SpaceX-SPA/img/${imgs.hasOwnProperty(name) ? imgs[name] : imgs.other}.png`}
 					alt="rocket"
 					className="rocket"
 			/>

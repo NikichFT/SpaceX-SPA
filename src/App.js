@@ -60,6 +60,10 @@ class App extends React.Component {
       path='/' 
       render={() => this.state.companies && <Home companies={this.state.companies}/> } />
 
+      <Route exact 
+      path='/SpaceX-SPA' 
+      render={() => this.state.companies && <Home companies={this.state.companies}/> } />
+
       <Route 
       path='/rocket/:rockets'
       render={({match})=> this.state.rocketFeatures && <Features {...this.state.rocketFeatures} match={match}/>}/>

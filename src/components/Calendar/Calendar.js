@@ -7,6 +7,8 @@ import Main from '../Main/Main';
 const Calendar = () => {
 
 	const {data} = useLaunches();
+
+	console.log(data)
 		
 	return (
 		<>

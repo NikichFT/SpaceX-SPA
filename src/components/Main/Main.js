@@ -16,7 +16,7 @@ const Main = ({ rocket, name }) => (
 
 		{rocket && <div className="video-container">
 			<video className="video" autoPlay loop muted 
-			src={`/video/${video.hasOwnProperty(rocket) ? video[rocket] : video.other}.mp4`}
+			src={`/SpaceX-SPA/video/${video.hasOwnProperty(rocket) ? video[rocket] : video.other}.mp4`}
 			></video>
 
 		</div>}
